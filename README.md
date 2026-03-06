@@ -40,7 +40,7 @@ By answering this question, businesses can make data-driven decisions to improve
   
 * **Geographic Performance**: Among all countries analyzed, Italy generates the highest revenue from closed deals.
   
-* **Industry Performance**: The Transportation & Logistics industry produces the highest revenue, contributing approximately $93.56K.
+* **Industry Performance**: The Transportation & Logistics industry contributes the highest share of revenue ($93.56K)
   
 * **Organization Size**: Medium-sized organizations bring the most revenue, significantly outperforming other company sizes.
   
