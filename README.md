@@ -26,9 +26,8 @@ By answering this question, businesses can make data-driven decisions to improve
 
 * Which product generates the most revenue?
 ## Dashboard
-<img width="1476" height="871" alt="CRM_Sales_Pipeline_Overview_Dashboard" src="https://github.com/user-attachments/assets/07e344ad-13a8-42ec-b04d-2958b33c40a1" />
-<img width="1468" height="870" alt="Market_and_Customer_Insights_Dashboard" src="https://github.com/user-attachments/assets/83bbd814-acc5-4231-98b1-5d04e1c9a926" />
-
+<img width="1463" height="865" alt="Screenshot 2026-04-21 070401" src="https://github.com/user-attachments/assets/a619d4ef-3665-4e96-a4bb-70f1e1044605" />
+<img width="1457" height="870" alt="Screenshot 2026-04-21 070432" src="https://github.com/user-attachments/assets/a98abe5e-9114-4f8d-b5f2-655512f9bc56" />
 
 ## Key Insights
 * **Revenue Performance**:  Total Closed Deals Value reached approximately $425K, indicating strong revenue generation from successfully converted opportunities.
